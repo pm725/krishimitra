@@ -182,7 +182,7 @@ MIT — see LICENSE file.
 ## 📬 Contact & maintainers
 
 Maintainer: pm725 (GitHub)
-Project email: your.email@example.com
+Project email: mahatpriyanshu7@gmail.com
 
 ---
 
